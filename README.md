@@ -1,1 +1,1 @@
-spacial
+Spatial without Compromise
